@@ -32,13 +32,13 @@ namespace Buster.Views
 
             // Adding menu items to menuList. (!menu, menu!)
             MenuList.Add(page1);
-            MenuList.Add(page2);
-            MenuList.Add(page3);
-            MenuList.Add(page4);
-            MenuList.Add(page5);
-            MenuList.Add(page6);
+            //MenuList.Add(page2);
+            //MenuList.Add(page3);
+            //MenuList.Add(page4);
+            //MenuList.Add(page5);
+            //MenuList.Add(page6);
             MenuList.Add(page7);
-            MenuList.Add(page8);
+            //MenuList.Add(page8);
 
             // Setting our list to be ItemSource for ListView in MainPage.xaml
             navigationDrawerList.ItemsSource = MenuList;

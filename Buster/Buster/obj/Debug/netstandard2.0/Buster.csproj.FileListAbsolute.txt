@@ -14,3 +14,11 @@ C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.Assembly
 C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\XamlC.stamp
 C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.dll
 C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.pdb
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page3.xaml.g.cs
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page4.xaml.g.cs
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page5.xaml.g.cs
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page6.xaml.g.cs
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page7.xaml.g.cs
+c:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\Page8.xaml.g.cs
