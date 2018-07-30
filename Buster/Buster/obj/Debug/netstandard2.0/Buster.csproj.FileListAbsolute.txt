@@ -1,0 +1,16 @@
+C:\aa\Repositories\Buster\Buster\Buster\bin\Debug\netstandard2.0\Buster.deps.json
+C:\aa\Repositories\Buster\Buster\Buster\bin\Debug\netstandard2.0\Buster.dll
+C:\aa\Repositories\Buster\Buster\Buster\bin\Debug\netstandard2.0\Buster.pdb
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.csprojAssemblyReference.cache
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.csproj.CoreCompileInputs.cache
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.AssemblyInfoInputs.cache
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.AssemblyInfo.cs
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\XamlC.stamp
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.dll
+C:\aa\Repositories\Buster\Buster\Buster\obj\Debug\netstandard2.0\Buster.pdb
