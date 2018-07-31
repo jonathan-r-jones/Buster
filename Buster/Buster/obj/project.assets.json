@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aa\\Repositories\\Buster\\Buster\\Buster\\Buster.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster\\Buster.csproj",
       "projectName": "Buster",
-      "projectPath": "C:\\aa\\Repositories\\Buster\\Buster\\Buster\\Buster.csproj",
+      "projectPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster\\Buster.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\aa\\Repositories\\Buster\\Buster\\Buster\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

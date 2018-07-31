@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\aa\\Repositories\\Buster\\Buster\\Buster.iOS\\Buster.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster.iOS\\Buster.iOS.csproj",
       "projectName": "Buster.iOS",
-      "projectPath": "c:\\aa\\Repositories\\Buster\\Buster\\Buster.iOS\\Buster.iOS.csproj",
+      "projectPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster.iOS\\Buster.iOS.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "c:\\aa\\Repositories\\Buster\\Buster\\Buster.iOS\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -744,8 +744,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "c:\\aa\\Repositories\\Buster\\Buster\\Buster\\Buster.csproj": {
-              "projectPath": "c:\\aa\\Repositories\\Buster\\Buster\\Buster\\Buster.csproj"
+            "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster\\Buster.csproj": {
+              "projectPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster\\Buster.csproj"
             }
           }
         }

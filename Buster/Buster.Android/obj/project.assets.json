@@ -766,11 +766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\aa\\Repositories\\Buster\\Buster\\Buster.Android\\Buster.Android.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster.Android\\Buster.Android.csproj",
       "projectName": "Buster.Android",
-      "projectPath": "c:\\aa\\Repositories\\Buster\\Buster\\Buster.Android\\Buster.Android.csproj",
+      "projectPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster.Android\\Buster.Android.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "c:\\aa\\Repositories\\Buster\\Buster\\Buster.Android\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -787,8 +787,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "c:\\aa\\Repositories\\Buster\\Buster\\Buster\\Buster.csproj": {
-              "projectPath": "c:\\aa\\Repositories\\Buster\\Buster\\Buster\\Buster.csproj"
+            "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster\\Buster.csproj": {
+              "projectPath": "C:\\Users\\jonat\\Documents\\Dropbox\\IT\\Buster\\Buster\\Buster\\Buster.csproj"
             }
           }
         }

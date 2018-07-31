@@ -43,6 +43,22 @@
                     HeightRequest="30" 
                     HorizontalTextAlignment="Center"
                     FontAttributes="Bold"
+                    Text="Application Date Version:"
+                    TextColor="MidnightBlue"
+                />
+                <!-- !rfspbs qq6 mov6 -->
+                <Label
+                    HeightRequest="30" 
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    Text="Jul-31-2018 12:13 PM"
+                    TextColor="MidnightBlue"
+                />
+                <Label
+                    HeightRequest="30" 
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold"
                     Text=" "
                     TextColor="MidnightBlue"
                     FontSize="Large"
