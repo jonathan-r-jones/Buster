@@ -57,8 +57,6 @@
                     IsOpaque="True"                
                     WidthRequest="100"
                     HeightRequest="250"/>
-
-                <Button Margin="20,20,20,20" Text="Update the App" Command="{Binding OpenWebCommand}" BackgroundColor="CornflowerBlue" TextColor="White" HeightRequest="50" WidthRequest="100"/>
             </StackLayout>
         </ScrollView>
         </ContentPage.Content>

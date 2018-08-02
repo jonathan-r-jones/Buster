@@ -15,13 +15,12 @@ namespace Buster.ViewModels
             switch (Device.RuntimePlatform)
             {
                 case Device.Android:
-                    OpenWebCommand = new Command(() => Device.OpenUri(new Uri("https://tinyurl.com/fresnel-doj")));
+                    OpenWebCommand = new Command(() => Device.OpenUri(new Uri("https://tinyurl.com/buster-android")));
                     break;
                 case Device.iOS:
-                    OpenWebCommand = new Command(() => Device.OpenUri(new Uri("https://tinyurl.com/fresnel-ios")));
+                    OpenWebCommand = new Command(() => Device.OpenUri(new Uri("https://tinyurl.com/buster-ios")));
                     break;
             }
-            OpenWebCommandJMD = new Command(() => Device.OpenUri(new Uri("https://www.justice.gov/jmd")));
         }
         public ICommand OpenWebCommand { get; }
         public ICommand OpenWebCommandJMD { get; }

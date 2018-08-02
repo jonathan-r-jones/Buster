@@ -27,7 +27,7 @@ namespace Buster.Views
             var page5 = new MasterPageItem() { Title = "Email Statistics", Icon = "itemIcon5.png", TargetType = typeof(Page5) };
             var page6 = new MasterPageItem() { Title = "Current Foreign Travel", Icon = "itemIcon6.png", TargetType = typeof(Page6) };
             var page7 = new MasterPageItem() { Title = "Azure Data", Icon = "itemIcon7.png", TargetType = typeof(Page7) };
-            //var aboutPage = new MasterPageItem() { Title = "About Buster", Icon = "buster.png", TargetType = typeof(AboutPage) };
+            var aboutPage = new MasterPageItem() { Title = "About Buster", Icon = "buster.png", TargetType = typeof(AboutPage) };
 
 
             // Adding menu items to menuList. (!menu, menu!)
@@ -38,7 +38,7 @@ namespace Buster.Views
             //MenuList.Add(page5);
             //MenuList.Add(page6);
             MenuList.Add(page7);
-            //MenuList.Add(aboutPage);
+            MenuList.Add(aboutPage);
 
             // Setting our list to be ItemSource for ListView in MainPage.xaml
             navigationDrawerList.ItemsSource = MenuList;
