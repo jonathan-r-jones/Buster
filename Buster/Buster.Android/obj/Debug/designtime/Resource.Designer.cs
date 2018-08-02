@@ -2366,6 +2366,9 @@ namespace Buster.Droid
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
+			// aapt resource value: 0x7F010003
+			public const int final_buster = 2130771971;
+			
 			// aapt resource value: 0x7F090054
 			public const int ic_audiotrack_dark = 2131296340;
 			

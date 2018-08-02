@@ -39,7 +39,7 @@
                     HorizontalTextAlignment="Center"
                     FontAttributes="Bold"
                     FontSize="Large"
-                    Text="Aug-2-2018 4:51 PM"
+                    Text="Aug-2-2018 5:46 PM"
                     TextColor="MidnightBlue"
                 />
                 <Label
@@ -52,7 +52,7 @@
                 />
                 <Image 
                     BackgroundColor="WhiteSmoke"
-                    Source="buster.jpg"
+                    Source="final_buster.jpg"
                     Aspect="AspectFit"
                     IsOpaque="True"                
                     WidthRequest="100"
