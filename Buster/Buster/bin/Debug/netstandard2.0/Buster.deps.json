@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "72f2d08640a7525dedeac7b6ffcd7cb7d456320a"
+    "signature": "bcc3c48ed0545af41ed29370ea20c7f4e5a14029"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,9 +9,10 @@
     ".NETStandard,Version=v2.0/": {
       "Buster/1.0.0": {
         "dependencies": {
+          "Microsoft.AppCenter.Analytics": "1.8.0",
           "Microsoft.AppCenter.Crashes": "1.8.0",
           "NETStandard.Library": "2.0.3",
-          "Xamarin.Forms": "3.1.0.637273"
+          "Xamarin.Forms": "3.1.0.697729"
         },
         "runtime": {
           "Buster.dll": {}
@@ -20,6 +21,14 @@
       "Microsoft.AppCenter/1.8.0": {
         "runtime": {
           "lib/netstandard1.0/Microsoft.AppCenter.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Analytics/1.8.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "1.8.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {}
         }
       },
       "Microsoft.AppCenter.Crashes/1.8.0": {
@@ -36,7 +45,7 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "Xamarin.Forms/3.1.0.637273": {
+      "Xamarin.Forms/3.1.0.697729": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
           "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {},
@@ -57,6 +66,13 @@
       "sha512": "sha512-V9ZPAVnnv8gTSxp2N1Wb39pbd5nSSuCvjpruFq27r0azRkhqLhOu+2mNgGOoX9LP/UiOrtoy3PY/y4LNAoI76g==",
       "path": "microsoft.appcenter/1.8.0",
       "hashPath": "microsoft.appcenter.1.8.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Analytics/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uj6b7qxKyONSZmqjgryApE4Sq23DC1j8wPJc1QA7BF1Nfa/e92bnKP497bs31xugjBSGwtSMH8hUhi/vH+tukA==",
+      "path": "microsoft.appcenter.analytics/1.8.0",
+      "hashPath": "microsoft.appcenter.analytics.1.8.0.nupkg.sha512"
     },
     "Microsoft.AppCenter.Crashes/1.8.0": {
       "type": "package",
@@ -79,12 +95,12 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "Xamarin.Forms/3.1.0.637273": {
+    "Xamarin.Forms/3.1.0.697729": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iYIMlhf5BFutJiVYYfawEtMzq4vo9m5qdT7R/IeDD40ENsqxqMBmvwp1/VzfD0las3ptkE0vgUG57O7QcUJlow==",
-      "path": "xamarin.forms/3.1.0.637273",
-      "hashPath": "xamarin.forms.3.1.0.637273.nupkg.sha512"
+      "sha512": "sha512-YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
+      "path": "xamarin.forms/3.1.0.697729",
+      "hashPath": "xamarin.forms.3.1.0.697729.nupkg.sha512"
     }
   }
 }
